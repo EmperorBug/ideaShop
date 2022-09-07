@@ -1,0 +1,2 @@
+# ideaShop
+My personal Project
